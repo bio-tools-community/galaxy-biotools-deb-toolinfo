@@ -1,5 +1,5 @@
 # Galaxy IUC tool folder	IUC note or commit	Bio.tools note	Debian note
-abyss	ready to commit	source	has id, no edam
+abyss	ready to commit	source	has id (switch all to lower case?), no edam
 allegro	nothing to add	missing (has another allegro)	was open source but not anymore
 anndata			
 art			
